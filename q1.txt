@@ -1,0 +1,20 @@
+Question no: 1
+
+Answer:
+1.Javascript is an object oriented language.
+2. keywords is used to define a variable in Javascript is 
+  var let
+3. Both by value and reference
+4.Both A and B
+5. declared to be a constant type
+  const
+6.a) al
+7. a) 20
+8.AJAX is about updating ______, without reloading the full-pag
+parts of a web page
+9.Commited 
+10. Git remote origin
+
+QS: Differentiate arrow functions and regular functions. 
+ Regular functions: are constructible, they can be called using the new keyword.
+ The arrow functions are only callable and not constructible, arrow functions can never be used as constructor functions
